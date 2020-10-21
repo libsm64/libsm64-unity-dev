@@ -1,6 +1,3 @@
-[submodule "Packages/com.libsm64.libsm64-unity"]
-	path = Packages/com.libsm64.libsm64-unity
-	url = git@github.com:libsm64/libsm64-unity
 [submodule "libsm64"]
 	path = libsm64
 	url = git@github.com:libsm64/libsm64

@@ -4,4 +4,4 @@ cd "$(dirname "${BASH_SOURCE[0]}")"
 
 cd libsm64
 make lib
-cp dist/libsm64.so ../Packages/com.libsm64.libsm64-unity/Plugins/libsm64.so
+cp dist/libsm64.so ../Assets/libsm64-unity/Plugins/libsm64.so

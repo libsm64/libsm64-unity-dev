@@ -9,8 +9,9 @@ To get started:
     cd libsm64-unity
     git submodule update --init --recursive
     ```
+- Get a copy of the 8,388,608 byte Super Mario 64 \[US\] z64 ROM (MD5 20b854b239203baf6c961b850a4a51a2)
+- Name the ROM `baserom.us.z64` and place it in the root folder of this repo/project
 - Open the project in Unity 2019.3.10
 - Make sure you have a controller attached
 - Open the test scene `Assets/pipescene.unity`
-- Run the scene, run around.
-- Start poking around to see how things are set up
+- Run the scene, make sure it's working, stop it, and start poking around.

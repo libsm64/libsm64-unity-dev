@@ -5,7 +5,7 @@ This repo contains a Unity project that wraps the [libsm64-unity](https://github
 To get started:
 - Clone this repository, and recursively clone submodules:
     ```
-    git clone https://github.com/libsm64/libsm64-unity
+    git clone https://github.com/libsm64/libsm64-unity-dev
     cd libsm64-unity
     git submodule update --init --recursive
     ```
